@@ -1,0 +1,249 @@
+[
+  {
+    "name": "aromantic",
+    "parts": [
+      {
+        "color": "#3aa63f",
+        "relation": 1
+      },
+      {
+        "color": "#abd47a",
+        "relation": 1
+      },
+      {
+        "color": "#ffffff",
+        "relation": 1
+      },
+      {
+        "color": "#aaaaaa",
+        "relation": 1
+      },
+      {
+        "color": "#000000",
+        "relation": 1
+      }
+    ]
+  },
+  {
+    "name": "asexual",
+    "parts": [
+      {
+        "color": "#000000",
+        "relation": 1
+      },
+      {
+        "color": "#a4a4a4",
+        "relation": 1
+      },
+      {
+        "color": "#ffffff",
+        "relation": 1
+      },
+      {
+        "color": "#810081",
+        "relation": 1
+      }
+    ]
+  },
+  {
+    "name": "bisexual",
+    "parts": [
+      {
+        "color": "#d70270",
+        "relation": 2
+      },
+      {
+        "color": "#734f96",
+        "relation": 1
+      },
+      {
+        "color": "#0038a8",
+        "relation": 2
+      }
+    ]
+  },
+  {
+    "name": "gay",
+    "parts": [
+      {
+        "color": "#078d70",
+        "relation": 1
+      },
+      {
+        "color": "#26ceaa",
+        "relation": 1
+      },
+      {
+        "color": "#98e8c1",
+        "relation": 1
+      },
+      {
+        "color": "#ffffff",
+        "relation": 1
+      },
+      {
+        "color": "#7bade2",
+        "relation": 1
+      },
+      {
+        "color": "#5049cc",
+        "relation": 1
+      },
+      {
+        "color": "#3d1a78",
+        "relation": 1
+      }
+    ]
+  },
+  {
+    "name": "germany",
+    "parts": [
+      {
+        "color": "#000000",
+        "relation": 2
+      },
+      {
+        "color": "#ff0000",
+        "relation": 2
+      },
+      {
+        "color": "#ffcc00",
+        "relation": 2
+      }
+    ]
+  },
+  {
+    "name": "lesbian",
+    "parts": [
+      {
+        "color": "#d62900",
+        "relation": 1
+      },
+      {
+        "color": "#ef7627",
+        "relation": 1
+      },
+      {
+        "color": "#ff9b55",
+        "relation": 1
+      },
+      {
+        "color": "#ffffff",
+        "relation": 1
+      },
+      {
+        "color": "#d461a6",
+        "relation": 1
+      },
+      {
+        "color": "#b55690",
+        "relation": 1
+      },
+      {
+        "color": "#a50062",
+        "relation": 1
+      }
+    ]
+  },
+  {
+    "name": "netherlands",
+    "parts": [
+      {
+        "color": "#a91f32",
+        "relation": 2
+      },
+      {
+        "color": "#ffffff",
+        "relation": 2
+      },
+      {
+        "color": "#1e4785",
+        "relation": 2
+      }
+    ]
+  },
+  {
+    "name": "nonbinary",
+    "parts": [
+      {
+        "color": "#fff430",
+        "relation": 1
+      },
+      {
+        "color": "#ffffff",
+        "relation": 1
+      },
+      {
+        "color": "#9c59d1",
+        "relation": 1
+      },
+      {
+        "color": "#000000",
+        "relation": 1
+      }
+    ]
+  },
+  {
+    "name": "pansexual",
+    "parts": [
+      {
+        "color": "#ff1b8d",
+        "relation": 2
+      },
+      {
+        "color": "#ffda00",
+        "relation": 2
+      },
+      {
+        "color": "#1bb3ff",
+        "relation": 2
+      }
+    ]
+  },
+  {
+    "name": "pride",
+    "parts": [
+      {
+        "color": "#ff0018",
+        "relation": 1
+      },
+      {
+        "color": "#ffa52c",
+        "relation": 1
+      },
+      {
+        "color": "#ffff41",
+        "relation": 1
+      },
+      {
+        "color": "#008018",
+        "relation": 1
+      },
+      {
+        "color": "#0000f9",
+        "relation": 1
+      },
+      {
+        "color": "#86007d",
+        "relation": 1
+      }
+    ]
+  },
+  {
+    "name": "spain",
+    "parts": [
+      {
+        "color": "#ad1519",
+        "relation": 1
+      },
+      {
+        "color": "#fabd00",
+        "relation": 2
+      },
+      {
+        "color": "#ad1519",
+        "relation": 1
+      }
+    ]
+  }
+]
