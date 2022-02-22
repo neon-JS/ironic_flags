@@ -3,8 +3,9 @@
 
 ## Usage
 1. Build the project
-2. `./ironic_flags <FLAGS_FILE_NAME> <FLAG_NAME>`
-3. 🎉
+2. `./ironic_flags -f <FLAGS_FILE_NAME> -n <FLAG_NAME>`
+3. `./ironic_flags --help`
+4. 🎉
 
 ## Examples
 see _basic_flags.json_.
